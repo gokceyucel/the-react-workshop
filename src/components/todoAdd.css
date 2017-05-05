@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between; 
+}
+
+.input {
+  background-color: #aaa;
+  border: 1px #000 solid;
+  width: 80%;
+  height: 40px;
+  font-size: 25px;
+}
+
+.button {
+  background-color: #bbb;
+  border: 1px #000 solid;
+  width: 90px;
+  height: 44px;
+}
